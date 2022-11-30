@@ -11,4 +11,16 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    background-size: cover;
+    font-size: 25px;
+}
+
+.square-fizz{
+    background-image: url('../img/fizz.png');
+    color: rgb(92, 44, 0);
+    
+}
+
+.square-buzz{
+    background-image: url('../img/buzz.png');
 }
