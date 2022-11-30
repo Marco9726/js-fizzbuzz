@@ -4,3 +4,7 @@ Scrivi un programma che stampi in console i numeri da 1 a 100, ma che per i mult
 //2 - dai valore 'Fizz' ai multipli di 3 X
 //3 - dai valore 'Buzz' ai multipli di 5 X
 //4 - dai valore 'FizzBuzz' ai multipli di 3 e 5 X
+//5 - visualizzare i valori in elementi html
+    //5.1 visualizzare i Fiiz
+    //5.2 visualizzare i Buzz
+    //5.3 visualizzare i FizzBuzz
