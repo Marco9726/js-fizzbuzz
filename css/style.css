@@ -7,20 +7,28 @@
 .square{
     height: 100px;
     width: 100px;
-    border: 1px solid black;
     display: flex;
     justify-content: center;
     align-items: center;
     background-size: cover;
     font-size: 25px;
+    background-color: rgb(51,92,127);
+    border: 1px solid rgb(185,203,213);
+    color: rgb(185,203,213);
 }
 
 .square-fizz{
     background-image: url('../img/fizz.png');
-    color: rgb(92, 44, 0);
+    color: red;
     
 }
 
 .square-buzz{
     background-image: url('../img/buzz.png');
+    color: darkblue;
+}
+
+.square-fizzbuzz{
+    background-image: url('../img/FizzBuzz.png');
+    color: darkblue;
 }
